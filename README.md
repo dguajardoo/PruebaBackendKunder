@@ -8,5 +8,5 @@ Parametro: ``` {"data": "hola"}  ```
 
 GET
 ---
-http://``` host ```/Alumnos/webresources/service/time?value=22:22
+http://``` host ```/PruebaBackend/webresources/service/time?value=22:22
 
